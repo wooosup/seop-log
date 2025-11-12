@@ -5,4 +5,4 @@
 
 
 ## API 문서 링크
-[🔗 seopLog REST API 문서 바로가기](https://useop00.github.io/seop-log/)
+[🔗 seopLog REST API 문서 바로가기](https://wooosup.github.io/seop-log/)
